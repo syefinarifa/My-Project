@@ -1,1 +1,1 @@
-Menghitung volume dan luas permukaan suatu bola dengan cepat dan akura
+Menghitung volume dan luas permukaan suatu bola dengan cepat dan akurat
